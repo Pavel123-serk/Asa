@@ -5,21 +5,9 @@
 ** This text will be bold **
 *This text will be italic*
 
-10
-
-11
-
-12
-
-13
-
-14
-15
-
-16
-
 This is Unordered list:
 * Item 1
 * Item 2
-
-* Item 2a
+  * Item 2a
+  ```javascript
+  let str = 'this is js code';
