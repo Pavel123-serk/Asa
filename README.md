@@ -1,11 +1,11 @@
 # This is my repository
 
 ## About me
-My name is Alex 👋  
+My name is Pasha 👋  
 I am a beginner JavaScript developer.  
 I like learning programming, creating small projects and improving my coding skills.
 
-![My Photo](https://placekitten.com/300/300)
+
 
 ## Example of my code
 
