@@ -1,13 +1,38 @@
-# This is an h1 tag
-## This is an h2 tag
-###### This is an h6 tag
+# This is my repository
 
-** This text will be bold **
-*This text will be italic*
+## About me
+My name is Alex 👋  
+I am a beginner JavaScript developer.  
+I like learning programming, creating small projects and improving my coding skills.
 
-This is Unordered list:
-* Item 1
-* Item 2
-  * Item 2a
-  ```javascript
-  let str = 'this is js code';
+![My Photo](https://placekitten.com/300/300)
+
+## Example of my code
+
+```javascript
+let isAlive = true;
+
+do {
+  code();
+} while (isAlive);
+
+function code() {
+  console.log("Hello world");
+}
+My skills
+
+HTML
+
+CSS
+
+JavaScript
+
+Git & GitHub
+
+Links
+
+My Facebook
+
+My Website
+
+My Telegram
