@@ -21,10 +21,4 @@ function code() {
 }
 
 
-Links
 
-My Facebook
-
-My Website
-
-My Telegram
